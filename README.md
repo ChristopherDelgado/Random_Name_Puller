@@ -1,0 +1,1 @@
+A simple command line script using Java Streams to populate a file with names, remove those names and pull random names from that file.
